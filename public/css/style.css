@@ -1,0 +1,41 @@
+/* Reset beberapa gaya default dari Bootstrap */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(161, 228, 255);
+    margin: 0;
+    padding: 0;
+}
+
+/* Gaya Navbar */
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+}
+
+.nav-link {
+    color: #006adc;
+}
+
+/* Gaya Container Utama */
+.container {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #d6d6d6;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #1b1a1a;
+}
+
+h2 {
+    color: #515151;
+}
+
+/* Gaya lainnya sesuai dengan kebutuhan Anda */
